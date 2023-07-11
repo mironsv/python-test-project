@@ -1,0 +1,11 @@
+binance==0.3
+ccxt==3.1.9
+confluent_kafka==2.1.1
+cryptography==40.0.2
+dataclasses_json==0.5.7
+kafka_python==2.0.2
+kucoin_python==1.0.11
+python_binance==1.0.17
+redis==4.5.5
+pydantic==1.10.8
+aiohttp==3.8.4
